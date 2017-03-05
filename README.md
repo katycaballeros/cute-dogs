@@ -13,3 +13,9 @@ A list of very cute dogs (with pictures).
 - The plural of puli is pulik (pronounced the same way)
 - Officially recognized as a breed in 1936
 - Makes for a stellar mop
+
+##Rat Terrier
+- Named by Teddy Roosevelt
+- Sought after show dogs
+  - expert jumpers and climbers
+- TJ is a supermodel 
