@@ -1,6 +1,7 @@
 # Cute Dogs
 A list of very cute dogs (with pictures).
 
+![sunbathing-chihuahua](images/sunbathing-chihuahua.jpg)
 ## Chihuahua
 - world's smallest dog is a Chihuahua
   - weighs less than 1 pound
@@ -18,4 +19,4 @@ A list of very cute dogs (with pictures).
 - Named by Teddy Roosevelt
 - Sought after show dogs
   - expert jumpers and climbers
-- TJ is a supermodel 
+- TJ is a supermodel
