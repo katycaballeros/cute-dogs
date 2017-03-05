@@ -1,4 +1,10 @@
 # Cute Dogs
+
+![GitHub contributors](https://img.shields.io/github/contributors/katycaballeros/cute-dogs.svg?style=flat-square)
+![license](https://img.shields.io/github/license/katycaballeros/cute-dogs.svg?style=flat-square)
+![contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)
+
+
 A list of very cute dogs (with pictures).
 
 ## Chihuahua
@@ -13,3 +19,9 @@ A list of very cute dogs (with pictures).
 - The plural of puli is pulik (pronounced the same way)
 - Officially recognized as a breed in 1936
 - Makes for a stellar mop
+
+##Rat Terrier
+- Named by Teddy Roosevelt
+- Sought after show dogs
+  - expert jumpers and climbers
+- TJ is a supermodel 
