@@ -13,4 +13,9 @@ A list of very cute dogs (with pictures).
 - has two head shapes
   - apple shape and deer shape
 - Katy will get one for her 23rd bday
-  - Em will buy 
+  - Em will buy
+
+## Puli
+- The plural of puli is pulik (pronounced the same way)
+- Officially recognized as a breed in 1936
+- Makes for a stellar mop
