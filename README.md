@@ -10,6 +10,7 @@ A list of very cute dogs (with pictures).
 - Katy will get one for her 23rd bday
   - Em will buy
 
+![sunbathing-puli](images/sunbathing-puli.jpg)
 ## Puli
 - The plural of puli is pulik (pronounced the same way)
 - Officially recognized as a breed in 1936
