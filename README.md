@@ -16,6 +16,7 @@ A list of very cute dogs (with pictures).
 - Officially recognized as a breed in 1936
 - Makes for a stellar mop
 
+![sunbathing-ratterrier](images/sunbathing-ratterrier.jpg)
 ##Rat Terrier
 - Named by Teddy Roosevelt
 - Sought after show dogs
