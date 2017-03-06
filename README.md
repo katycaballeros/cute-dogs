@@ -1,4 +1,10 @@
 # Cute Dogs
+
+![GitHub contributors](https://img.shields.io/github/contributors/katycaballeros/cute-dogs.svg?style=flat-square)
+![license](https://img.shields.io/github/license/katycaballeros/cute-dogs.svg?style=flat-square)
+![contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)
+
+
 A list of very cute dogs (with pictures).
 
 ![sunbathing-chihuahua](images/sunbathing-chihuahua.jpg)
